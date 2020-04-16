@@ -1,2 +1,10 @@
 # Brainmets
-A Python package for brainmets segmentation
+Brainmets is a Python package I wrote for brainmets segmentation
+
+Unfortunately, I can't share the data
+
+Some predicitons:
+
+![Some Predictions](https://github.com/SihanChen46/Brainmets/blob/master/examples/prediction%201.png)
+
+![Some Predictions](https://github.com/SihanChen46/Brainmets/blob/master/examples/prediction%202.png)
