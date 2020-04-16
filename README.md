@@ -1,5 +1,5 @@
 # Brainmets
-A Python package for brainmets segmentation
+Brainmets is a Python package I wrote for brainmets segmentation
 
 Unfortunately, I can't share the data
 
