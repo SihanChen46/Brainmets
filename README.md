@@ -1,7 +1,7 @@
 # Brainmets
-Brainmets is a Python package I wrote for brain metastases segmentation
+Brainmets is a Python package I wrote for brain metastases segmentation.
 
-Unfortunately, I can't share the data
+Unfortunately, I can't share the data.
 
 Some predicitons:
 
